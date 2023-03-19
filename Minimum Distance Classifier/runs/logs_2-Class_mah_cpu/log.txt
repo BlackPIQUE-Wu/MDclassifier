@@ -1,0 +1,103 @@
+--------Minimum Distance Classifier v1.0--------
+### Solution for: 2-Class Problem.mat ###
+---------------------START---------------------
+[2023-03-19 16:20:45]
+
+### Training Results ###
+In .//logs//training_results.json
+[2023-03-19 16:20:45]
+
+50 instances have been predicted...
+[2023-03-19 16:20:46]
+
+100 instances have been predicted...
+[2023-03-19 16:20:47]
+
+150 instances have been predicted...
+[2023-03-19 16:20:47]
+
+200 instances have been predicted...
+[2023-03-19 16:20:48]
+
+250 instances have been predicted...
+[2023-03-19 16:20:49]
+
+300 instances have been predicted...
+[2023-03-19 16:20:49]
+
+350 instances have been predicted...
+[2023-03-19 16:20:50]
+
+400 instances have been predicted...
+[2023-03-19 16:20:51]
+
+450 instances have been predicted...
+[2023-03-19 16:20:51]
+
+500 instances have been predicted...
+[2023-03-19 16:20:52]
+
+550 instances have been predicted...
+[2023-03-19 16:20:53]
+
+600 instances have been predicted...
+[2023-03-19 16:20:54]
+
+650 instances have been predicted...
+[2023-03-19 16:20:54]
+
+700 instances have been predicted...
+[2023-03-19 16:20:55]
+
+750 instances have been predicted...
+[2023-03-19 16:20:56]
+
+800 instances have been predicted...
+[2023-03-19 16:20:57]
+
+850 instances have been predicted...
+[2023-03-19 16:20:57]
+
+900 instances have been predicted...
+[2023-03-19 16:20:58]
+
+950 instances have been predicted...
+[2023-03-19 16:20:59]
+
+1000 instances have been predicted...
+[2023-03-19 16:21:00]
+
+1050 instances have been predicted...
+[2023-03-19 16:21:00]
+
+1100 instances have been predicted...
+[2023-03-19 16:21:01]
+
+1150 instances have been predicted...
+[2023-03-19 16:21:02]
+
+1200 instances have been predicted...
+[2023-03-19 16:21:02]
+
+1250 instances have been predicted...
+[2023-03-19 16:21:03]
+
+1300 instances have been predicted...
+[2023-03-19 16:21:04]
+
+1350 instances have been predicted...
+[2023-03-19 16:21:05]
+
+Prediction done......
+### Testing Prediction Results ###
+In .//logs//prediction_results.json
+[2023-03-19 16:21:05]
+
+### Testing Validation Results ###
+In .//logs//val_results.json
+
+Accuracy: 100.00%
+[2023-03-19 16:21:05]
+
+Total time: 19.79s
+----------------------END----------------------
